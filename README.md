@@ -1,4 +1,4 @@
-##Data Science Bootcamp
+#<center>Data Science Bootcamp</center>
 # Day 1
 # Python 
 Python is a high-level, easy-to-read programming language known for its simplicity and versatility. It's used for web development, data analysis, machine learning, automation, and more. Python is popular because of its clear syntax and vast library support
