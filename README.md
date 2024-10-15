@@ -14,4 +14,5 @@ Python is a high-level, easy-to-read programming language known for its simplici
 3. Boolean
 4. Set
 5. Dictionary
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5d49272d-9040-438e-924c-c2512c516863)
+
